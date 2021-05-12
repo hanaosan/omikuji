@@ -1,3 +1,3 @@
 # omikuji
 
-javascriptでおみくじを作成しました。
+javascriptでおみくじを作成しました→https://hanaosan.github.io/omikuji/
