@@ -1,3 +1,8 @@
-# omikuji
+## 概要
 
-javascriptでおみくじを作成しました→https://hanaosan.github.io/omikuji/
+omikuji
+
+おみくじを作成しました→https://hanaosan.github.io/omikuji/
+
+## 技術
+javascript
